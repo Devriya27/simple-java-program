@@ -15,7 +15,7 @@ class Factorial
 		}
 		System.out.println(out);
 		i++;
-		fact();
+		fact();					//Recursion
 	}
 
 }
